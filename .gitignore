@@ -1,0 +1,6 @@
+mcp9808_read
+*.o
+*.d
+mcp9808
+mcp9808.h
+mcp9808.c
